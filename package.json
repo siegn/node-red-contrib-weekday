@@ -1,0 +1,14 @@
+{
+  "name": "node-red-contrib-weekday",
+  "version": "1.0.0",
+  "description": "Filters payload depending on whether the selected days of the week are met.",
+  "main": "weekday.js",
+  "node-red": {
+    "nodes": {
+      "weekday": "weekday.js"
+    }
+  },
+  "author": "Nelson Siegel",
+  "license": "Apache-2.0",
+  "keywords":["node-red"]
+}
