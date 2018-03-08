@@ -10,5 +10,9 @@
   },
   "author": "Nelson Siegel",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonsiegel/node-red-contrib-weekday"
+  },
   "keywords":["node-red"]
 }
